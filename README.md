@@ -37,7 +37,17 @@ En desarrollo.
 ## Instrucciones de Instalación
 1. Clona el repositorio.
    ```bash
-   git clone https://github.com/tu_usuario/tu_repositorio.git
+   https://github.com/Karliax25/Amigo-secreto.git
 ```
+2.Navega al directorio del proyecto.
+3. Abre el archivo ```
+   index.html
+   ```  en tu navegador
+
+
+
+
+
+
  <63b9-4cbe-97e6-5e4188afad49" />
 
